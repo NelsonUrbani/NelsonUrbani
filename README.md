@@ -5,6 +5,6 @@
 
 -->
 
-- 🔭 I’m currently working on RedHat OpenShift and AWS
-- 🌱 I’m currently learning SRE best practices
-- ⚡ Fun fact: Futbol, tecnología y motos!!! 
+- 🔭 I’m currently working on RedHat OpenShift, Docker, kubernets and AWS
+- 🌱 I’m learning SRE best practices
+- ⚡ Fun fact: Futbol, technology and motorcycles!!! 
